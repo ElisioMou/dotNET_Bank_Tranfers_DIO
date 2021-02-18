@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MeusProjetos\\C#\\.NET Bank_Tranfers\\Work\\DIO\\NET.Bank\\NET.Bank.csproj": {}
+    "D:\\MeusProjetos\\C#\\.NET Bank_Tranfers\\NET.Bank.csproj": {}
   },
   "projects": {
-    "D:\\MeusProjetos\\C#\\.NET Bank_Tranfers\\Work\\DIO\\NET.Bank\\NET.Bank.csproj": {
+    "D:\\MeusProjetos\\C#\\.NET Bank_Tranfers\\NET.Bank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MeusProjetos\\C#\\.NET Bank_Tranfers\\Work\\DIO\\NET.Bank\\NET.Bank.csproj",
+        "projectUniqueName": "D:\\MeusProjetos\\C#\\.NET Bank_Tranfers\\NET.Bank.csproj",
         "projectName": "NET.Bank",
-        "projectPath": "D:\\MeusProjetos\\C#\\.NET Bank_Tranfers\\Work\\DIO\\NET.Bank\\NET.Bank.csproj",
+        "projectPath": "D:\\MeusProjetos\\C#\\.NET Bank_Tranfers\\NET.Bank.csproj",
         "packagesPath": "C:\\Users\\Elisio Elis de Moura\\.nuget\\packages\\",
-        "outputPath": "D:\\MeusProjetos\\C#\\.NET Bank_Tranfers\\Work\\DIO\\NET.Bank\\obj\\",
+        "outputPath": "D:\\MeusProjetos\\C#\\.NET Bank_Tranfers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
